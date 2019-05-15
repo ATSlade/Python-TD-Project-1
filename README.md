@@ -19,6 +19,7 @@ Before you submit your project for review, make sure you can check off all of th
 *Extra Credit*
 
 To get an "exceeds" rating, you can expand on the project in the following ways:
+
 As a player of the game, my guess should be within the number range. If my guess is outside the guessing range I should be told to try again.
 
 As a player of the game, after I guess correctly I should be prompted if I would like to play again.
